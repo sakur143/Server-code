@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}

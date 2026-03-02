@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "functions": {
+    "api/contact.js": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "@telegram-bot-token",
+    "TELEGRAM_CHAT_ID": "@telegram-chat-id"
+  }
+}
